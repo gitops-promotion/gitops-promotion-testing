@@ -1,0 +1,3 @@
+random: test
+image: "testapp:20210624161517" # {"$imagepolicy": "testgroup:testapp"}
+why: true
