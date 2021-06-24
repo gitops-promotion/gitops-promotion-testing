@@ -1,7 +1,0 @@
-environments:
-  - name: dev
-    auto: true
-  - name: qa
-    auto: false
-  - name: prod
-    auto: false
