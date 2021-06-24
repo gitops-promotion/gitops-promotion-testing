@@ -1,3 +1,3 @@
 random: test
-image: "testapp:20210624194844" # {"$imagepolicy": "testgroup:testapp"}
+image: "testapp:20210624200805" # {"$imagepolicy": "testgroup:testapp"}
 why: true
