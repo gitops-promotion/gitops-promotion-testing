@@ -1,3 +1,4 @@
+prflow: per-env
 environments:
   - name: dev
     auto: true
