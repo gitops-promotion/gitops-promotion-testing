@@ -6,3 +6,8 @@ environments:
     auto: false
   - name: prod
     auto: false
+features:
+  testgroup:
+    testapp:
+      selector:
+        app: testapp
