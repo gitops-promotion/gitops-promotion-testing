@@ -1,0 +1,5 @@
+commonLabels:
+  feature: "20220202152542"
+nameSuffix: "20220202152542"
+resources:
+- ~G_v1_Pod--debug-network-pod.yaml
