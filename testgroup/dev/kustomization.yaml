@@ -1,2 +1,3 @@
 resources:
-  - testapp.yaml
+- testapp.yaml
+- testapp-20220202154208
