@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    app: testapp
+    feature: "20220203221611"
+  name: debug-network-pod20220203221611
+spec:
+  containers:
+  - command:
+    - sleep
+    - "3600"
+    image: testapp:20220203221611
+    name: debug-network-container
