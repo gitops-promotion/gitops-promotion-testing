@@ -1,0 +1,12 @@
+commonLabels:
+  feature: "20220207205226"
+nameSuffix: "20220207205226"
+resources:
+- ~G_v1_Pod--debug-network-pod.yaml
+- ~G_v1_Pod--debug-network-pod20220202154208.yaml
+- ~G_v1_Pod--debug-network-pod20220203221611.yaml
+- ~G_v1_Pod--debug-network-pod2022020215420820220203221611.yaml
+- ~G_v1_Pod--debug-network-pod20220207135452.yaml
+- ~G_v1_Pod--debug-network-pod2022020215420820220207135452.yaml
+- ~G_v1_Pod--debug-network-pod2022020322161120220207135452.yaml
+- ~G_v1_Pod--debug-network-pod202202021542082022020322161120220207135452.yaml
