@@ -6,8 +6,9 @@ environments:
     auto: false
   - name: prod
     auto: false
-features:
+groups:
   testgroup:
-    testapp:
-      selector:
-        app: testapp
+    applications:
+      testapp:
+        featureLabelSelector:
+          app: testapp
