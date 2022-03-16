@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: debug-network-container
-    image: "testapp:20220315160403" # {"$imagepolicy": "testgroup:testapp"}
+    image: "testapp:20220316041609" # {"$imagepolicy": "testgroup:testapp"}
     command:
     - sleep
     - "3600"
