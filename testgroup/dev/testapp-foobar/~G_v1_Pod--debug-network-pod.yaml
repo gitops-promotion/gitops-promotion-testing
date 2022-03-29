@@ -9,5 +9,5 @@ spec:
   - command:
     - sleep
     - "3600"
-    image: testapp:20220325041735
+    image: testapp:20220329041732
     name: debug-network-container
