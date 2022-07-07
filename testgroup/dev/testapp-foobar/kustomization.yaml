@@ -1,6 +1,0 @@
-commonLabels:
-  app: testapp-foobar
-  gitops-promotion.xenit.io/feature: foobar
-nameSuffix: -foobar
-resources:
-- ~G_v1_Pod--debug-network-pod.yaml
